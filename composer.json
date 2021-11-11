@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "chguoxi/laravel-admin": "v2.0.0-beta8"
+        "chguoxi/laravel-admin": "v2.0.0-*"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
